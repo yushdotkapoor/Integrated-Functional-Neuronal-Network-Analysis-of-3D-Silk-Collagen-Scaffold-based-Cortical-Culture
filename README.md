@@ -30,7 +30,7 @@ j.	singleROIAnalyis.m
 %   - meanSampleFrequency (events/min);
 %   - percentageActiveROI;
 %   - SyncIndex.
-
+ 
 %Output from matrixExtraction.m
 % 1.A= matrix computed accordingly to the FC method choose in FluoroSNAAP 
 
