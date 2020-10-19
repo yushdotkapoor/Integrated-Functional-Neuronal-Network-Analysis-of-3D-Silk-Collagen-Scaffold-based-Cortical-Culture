@@ -68,7 +68,7 @@ j.	singleROIAnalyis.m
 
 % 2) avg_path_matrix.m = a function to compute the average path length of a given matrix using the graphallshortestpaths built-in matlab function;
 %written by Eric Bridgeford;Muldoon, S., Bridgeford, E. & Bassett, D. Small-World Propensity and Weighted Brain Networks. Sci Rep 6, 22057 (2016). https://doi.org/10.1038/srep22057  
-
+ 
 % 3) clustering_coef_matrix.m = a modification of the clustering coefficient function provided in the brain connectivity toolbox; 
 % code originally written by Mika Rubinov, UNSW, 2007-2010; modified/written by Eric Bridgeford; Muldoon, S., Bridgeford, E. & Bassett, D. Small-World Propensity and Weighted Brain Networks. Sci Rep 6, 22057 (2016). https://doi.org/10.1038/srep22057
 
