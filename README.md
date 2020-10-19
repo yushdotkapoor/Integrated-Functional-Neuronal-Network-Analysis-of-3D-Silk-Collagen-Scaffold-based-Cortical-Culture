@@ -20,8 +20,7 @@ j.	singleROIAnalyis.m
 % 2. for NetworkAnalysis.m
 %   Do you want to binaryze the matrix?
 %   You must decleare if you want or not to binarize the input
-%   matrix. If yes, if yes, you must decleare also the
-%   threshold. 
+%   matrix. If yes, if yes, you must decleare also the threshold. 
 
 %Output from singleROIAnalysis.m function
 % 1) CalciumEventsTable;
