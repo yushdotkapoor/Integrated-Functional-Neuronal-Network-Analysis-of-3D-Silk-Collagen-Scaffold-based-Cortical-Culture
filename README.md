@@ -78,4 +78,4 @@ j.	singleROIAnalyis.m
 % 5) node.m= Helper class for circularGraph.
 % (Paul Kassebaum (2020). circularGraph https://github.com/paul-kassebaum-mathworks/circularGraph), GitHub. Retrieved October 6, 2020.)
 
-%written by Mattia Bonzanni
+%written by Mattia Bonzanni 
